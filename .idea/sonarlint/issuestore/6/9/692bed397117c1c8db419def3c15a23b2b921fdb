@@ -1,0 +1,14 @@
+
+_
+java:S1192"JDefine a constant instead of duplicating this literal ", size = " 3 times.(ù”‘Y
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ù”‘Y
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´œ¾œûÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ù”‘Y
+V	java:S125"<This block of commented-out lines of code should be removed.(Õ¬äµÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ù”‘Y
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§ß»È8Ð‰øßÇ0
+G
+java:S1197 "*Move the array designators [] to the type.(ÓÊÆˆ8â¨ýßÇ0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(×ŠŠà8ì¨ýßÇ0
+V
+java:S1128";Remove this unused import 'java.util.Comparator.comparing'.(Âòãëúÿÿÿÿ

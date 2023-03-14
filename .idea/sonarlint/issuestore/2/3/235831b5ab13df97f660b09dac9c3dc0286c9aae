@@ -1,0 +1,12 @@
+
+7
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(Ð¨Ì‡þÿÿÿÿ8Ç¯ÁÃÇ0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÂµÄŸ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤¼üë
+Q	java:S125"<This block of commented-out lines of code should be removed.(¦äá
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(…ñë
+S	java:S106""9Replace this use of System.out or System.err by a logger.(–í¦õûÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(…ñë
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(‘Òó
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(›éÄ¥

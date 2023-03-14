@@ -1,0 +1,28 @@
+
+e
+java:S1192"JDefine a constant instead of duplicating this literal ", size = " 7 times.(ŠşØÔşÿÿÿÿ
+N
+java:S1854""8Remove this useless assignment to local variable "zeus".(¶¨Ç©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠşØÔşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—Öº
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠşØÔşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠşØÔşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§¸˜Æ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÑäÆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÛ·†
+Q	java:S125"<This block of commented-out lines of code should be removed.(¿ö‡ 
+?
+java:S1481"")Remove this unused "zeus" local variable.(¶¨Ç©
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ŠşØÔşÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ŠşØÔşÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(œ¶××
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ŠşØÔşÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(œ¶××
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ŠşØÔşÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(çÂª–üÿÿÿÿ
+M	java:S1069"9Replace this use of System.out or System.err by a logger.(‡ÊÈ
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ÿµ€Óùÿÿÿÿ8¥ÙÜáÇ0
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
